@@ -61,7 +61,7 @@ estudo3/
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/SatiroDev/seurepositorio.git
+   git clone https://github.com/SatiroDev/projetoJS.git
    ```
 
 2. **Instale as dependências:**
